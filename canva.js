@@ -8,5 +8,9 @@ function buttonFunction() {
   ctx.fillRect(0, 0, 10, 10);
 
   ctx.fillRect(20, 20, 10, 10);
+   
+  ctx.fillRect(2, 2, 20, 20);
+
+  ctx.fillRect(30, 30, 20, 20);
 }
 
