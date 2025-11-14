@@ -1,3 +1,6 @@
 body{
     background: orange;
 }
+canvas{
+    border-color: black;
+}
