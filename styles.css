@@ -2,5 +2,5 @@ body{
     background: orange;
 }
 canvas{
-    border-color: black;
+    border: color 2px; black;
 }
