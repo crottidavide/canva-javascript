@@ -3,7 +3,7 @@ function buttonFunction() {
   var ctx = canvas.getContext("2d");
   ctx.fillStyle = "#FF0000";
   ctx.fillRect(0, 0, 150, 75);
-  ctx.fillStyle = "#00FF00";
+  ctx.fillStyle = "#fbff00ff";
 
   ctx.fillRect(0, 0, 10, 10);
 
